@@ -14,4 +14,7 @@ git log
 git reset --hard <commit_id>      # go back in time
 git merge <branch>                # merge into current
 git tag -a '<ver>' -m '<desc>'
+git remote add origin <url>
+git push origin <branch>
+git pull origin <branch>
 ```

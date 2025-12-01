@@ -12,4 +12,6 @@ git checkout -b <name>            # Create Branch
 git status                        # im lost!
 git log
 git reset --hard <commit_id>      # go back in time
+git merge <branch>                # merge into current
+git tag -a '<ver>' -m '<desc>'
 ```
